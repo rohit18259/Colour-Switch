@@ -1,5 +1,5 @@
 # Colour-Switch
-This is a remake of the android game Colour-Switch, built in java for desktop.
+This is a remake of the android game Colour-Switch, built in java for desktop. It is made using JavaFX.
 This is a Game made by a group of 2 people, me and my partner Jasdeep Singh (https://github.com/Jasdeep71)
 This game is made using java's object oriented principles.
 Controls :- spacebar to jump, p to pause, mouse clicks to navigate through pages(save,load,etc.)
